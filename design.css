@@ -1,0 +1,974 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito', sans-serif;
+}
+
+body
+{
+    margin: 0;
+    padding: 0;
+    background: #fff;
+}
+
+
+.container
+{
+    background-color: #000;
+    height: 7%;
+    color: #fff;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+     font-weight: bolder;
+    margin-right: 30px;
+    
+}
+
+.hdrContainer
+{
+    background-color: #000;
+    height: 7%;
+    color: #fff;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+     font-weight: bolder;
+    margin-right: 30px;
+    width: 100%;
+}
+
+.hdrContainer h3{
+    padding: 2%;
+    
+}
+
+
+#hdr
+{
+     box-shadow: 0 .5rem 1rem rgba(0,0,0,.6);
+}
+
+.anchorWords{
+    color: #0d7d35;
+}
+
+#soft
+{
+ font-size: 25px; 
+    
+}
+
+#touch
+{
+ font-size: 20px;
+    color: #3da4f4;
+    border-bottom: 2px solid #fff; 
+    border-radius: 3px;
+}
+
+
+.container h3{
+    padding: 2%;
+    
+}
+
+#imageWrapper
+{
+   
+    margin-top: 3%;
+        width: 20%;
+    height: 35%;
+    border-radius: 10px;
+    display: inline-block;
+     
+}
+
+#ver
+{
+    font-size: 15px;
+}
+
+#resourceImage
+{
+    width: 60%;
+    height: 60%;
+    
+}
+
+.container ul
+{
+    display: inline-flex;
+  
+}
+
+.container ul li
+{
+   
+     transition: .2s linear;
+}
+
+.container ul li a:hover
+{
+        color: #fff;
+}
+
+.container ul li
+{
+    list-style: none;
+     border-radius: 5px;
+    cursor:pointer;
+    
+}
+
+.container ul li a
+{
+    text-decoration: none;
+  font-size: 20px;
+    border: 0px solid #fff;
+margin: 5px;
+    color: #677076;
+    border-bottom: 1px solid #000;
+}
+
+#two
+{
+    margin-top: 10px;
+     box-shadow: 0 .5rem 1rem rgba(0,0,0,.6);
+}
+
+.content
+{
+    background: #d9dcde;
+    width: 50%;
+    padding: 2%;
+    border-radius: 5px;
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.4);
+       
+}
+
+#leftDiv
+{
+    float: left;
+    border-left: 3px solid #000;
+
+}
+
+#lastDiv ul li
+{
+  list-style: decimal;
+}
+
+#rightDiv
+{
+     
+     margin-top: 15%;
+    border-left: 3px solid #000;
+    
+}
+
+ #hdr-logo
+{
+    width: 150px;
+    height: 60px;
+}
+
+.content h1
+{
+
+ font-family: serif;
+    
+}
+.content p
+{
+    margin-top: 10px;
+     font-family: serif;
+}
+
+#lastDiv
+{
+     margin-top: 5%;
+   border-left: 3px solid #000;
+ 
+}
+
+#lastDiv h1, #lastDiv p
+{
+    font-family: 'Nunito', sans-serif; 
+}
+
+.movies{
+    color: #000;
+    
+}
+
+#middle
+{
+    
+    background-color: #fff;
+      float: right; 
+     width: 37%;
+    height: 100%;
+    margin-right: 3%;
+    
+}
+
+#innerMiddle{
+    margin-left: 10%;
+    margin-right: 15%;
+     width: 80%;
+    height: 60%;
+    background-position: center;
+    background-size: contain;
+        background-repeat:no-repeat; 
+     /*box-shadow: 0 .5rem 1rem rgba(0,0,0,.6);*/
+    border-radius: 10px;
+    transition: 0.7s linear;
+    
+    
+}
+
+.btn
+{
+    width: 35%;
+    border: 1px solid #fff;
+    background-color: #0d7d35;
+       /* #2891d3;*/
+    color: #fff;
+    font-size: 13px;
+    border-radius: 10px;
+    padding: 2%;
+    
+    
+}
+
+.btn:hover
+{
+    background: #075c80;
+    transition: 0.7s ease;
+      color: burlywood;
+    
+}
+
+.mirror{
+    color: #0d7d35;
+    
+}
+
+#how
+{
+    border-bottom: 2px solid #000;
+    width: 80%;
+}
+
+#download
+{
+    margin-left: 20%;
+    font-size: 15px;
+    transition: 0.4s ease;
+    padding: 1%;
+    border-radius: 25px;
+    background-color: #0d7d35;
+    color: #fff;
+    border: 0px solid #0d7d35;
+    margin-top: 5%;
+}
+
+#dt
+{
+    margin-left: 20%;  
+}
+
+.navBtn
+{
+    width: 30px;
+    margin-left: 10px;
+    height: 35px;
+    background-color: #0d7d35;
+    color: #fff;
+    border-radius: 50px;
+    font-size: 25px;
+    border: 0px solid #0d7d35;
+}
+
+.navBtn:hover
+{
+      background-color: #075c80;
+    transition: 0.7s linear;
+    color: burlywood;
+}
+
+#download:hover
+{
+background-color: #075c80;
+    color: burlywood;
+    
+}
+
+#foota
+{
+ background-color: #000;
+    height: 13%;
+    display: inline-block;
+    width: 100%;
+    bottom: 0;
+    margin-top: 2%;
+    
+}
+
+#softB
+{
+    color: #fff;
+    
+}
+
+
+#leftBtm{
+    float: left;
+      color: #fff;
+    padding: 3%;
+}
+
+#rightBtm{
+    float: right;
+      color: #fff;
+    margin-right: 2%;
+    padding: 1%;
+}
+
+#rightBtm h3
+{
+   color: #3da4f4;
+    
+}
+
+#rightBtm ul
+{
+    margin-top: 10px;
+    
+}
+
+#rightBtm ul li
+{
+    
+    list-style: none;
+    margin-top: 5px;
+    
+}
+
+#rightBtm ul li a
+{
+  
+    text-decoration: none;
+    color: burlywood;
+    
+}
+
+
+#commentSection
+{
+    width: 300px;
+    margin-top: 30px;
+      margin-left: 30px;
+}
+
+}
+
+#comment
+{
+    height: 150px;
+    width: 300px;
+    padding: 0;
+    margin: 0;
+    
+    
+}
+
+
+#submit
+{
+    margin-left: 85%;
+    
+}
+
+#emailAddressDiv
+{
+    margin-top: 30px;
+    
+    
+}
+
+#emailAddressDiv ul li 
+{
+    display: inline-block;
+    
+}
+
+#email
+{
+  
+    
+}
+
+.mvImg2
+{
+    background-image: url(posters/1.jpg);
+    
+}
+
+.mvImg3
+{
+    background-image: url(posters/2.jpg);
+    
+}
+
+.mvImg4
+{
+    background-image: url(posters/3.jpg);
+    
+}
+
+.mvImg5
+{
+    background-image: url(posters/4.jpg);
+    
+}
+
+.mvImg6
+{
+    background-image: url(posters/5.jpg);
+    
+}
+
+.mvImg7
+{
+    background-image: url(posters/6.jpg);
+    
+}
+
+.mvImg8
+{
+    background-image: url(posters/7.jpg);
+    
+}
+
+
+
+/*
+
+ MEDIA QUERIES
+ MEDIA QUERIES
+ MEDIA QUERIES
+ MEDIA QUERIES
+ MEDIA QUERIES
+ MEDIA QUERIES
+ MEDIA QUERIES
+ MEDIA QUERIES
+
+*/
+     
+
+/* Small Devices */
+
+@media all and (max-width: 400px){
+    #hdr-logo
+    {
+        width: 150px;
+        height: 48px;
+    }
+
+
+    #resourceImage
+    {
+        width: 110px;
+        height: 160px;
+    }
+
+    #leftDiv p 
+    {
+        font-size: 15px;
+
+    }
+
+    #middle
+    {
+        margin-bottom: 800px;
+
+    }
+
+#leftDiv h1 {
+    font-size: 20px;
+
+}
+
+    #rightDiv h1 
+    {
+        font-size: 20px;
+
+    }
+
+    #middle h1
+    {
+         font-size: 15px;
+        
+    }
+
+   .movies 
+    {
+        font-size: 15px;
+
+    }
+
+    .btn 
+    {
+        font-size: 12px;
+
+    }
+    
+    .mirror 
+    {
+        font-size: 12px;
+
+    }
+
+   #rightDiv p 
+   {
+       font-size: 15px;
+
+   }
+   
+   #lastDiv ul li 
+   {
+       font-size: 15px;
+
+   }
+
+   #download 
+   {
+       margin-top: 2%;
+
+   }
+}
+
+
+
+@media all and (max-width: 500px){
+    
+    #hdr-logo
+    {
+        width: 150px;
+        height: 48px;
+    }
+
+
+    #resourceImage
+    {
+        width: 110px;
+        height: 160px;
+    }
+    
+    #hdr h3
+    {
+        font-size: 20px;
+        
+    }
+    
+    #two
+    {
+        width: 110px;
+    }
+    
+    #ant{
+        font-size: 5px;
+        
+    }
+    
+    #lastDiv h1
+{
+font-size: 20px;
+    
+ 
+}
+    
+    #rightBtm h3
+    {
+        font-size: 15px;
+        
+    }
+    
+    #leftBtm h1
+    {
+        font-size: 20px;
+        padding-top: 15%;
+        
+    }
+    
+    #rightBtm ul li
+    {
+        font-size: 10px;
+        
+    }
+    
+}
+
+/* Medium Devices */
+@media all and (max-width: 782px){
+    
+    #hdr-logo
+    {
+        width: 150px;
+        height: 35px;
+    }
+
+
+    #resourceImage
+    {
+        width: 110px;
+        height: 110px;
+    }
+
+    #ant{
+        font-size: 20px;
+        
+    }
+    
+    #ver
+{
+    font-size: 10px;
+}
+
+      #rightDiv
+{
+   
+     margin-top: 30%;
+    border-left: 3px solid #000;
+    
+} 
+    
+}
+
+
+@media all and (max-width: 1000px){
+
+        #hdr-logo
+    {
+        width: 150px;
+        height: 35px;
+    }
+
+
+    #resourceImage
+    {
+        width: 110px;
+        height: 110px;
+    }
+    
+#middle
+{
+    
+    background-color: #fff;
+      float: right; 
+     width: 37%;
+    height: 95%;
+    margin-right: 3%;
+    
+}
+
+    #download
+{
+    margin-left: 17%;
+    font-size: 15px;
+    transition: 0.4s ease;
+    padding: 1%;
+    border-radius: 25px;
+    background-color: #0d7d35;
+    color: #fff;
+    border: 0px solid #0d7d35;
+    margin-top: 5%;
+}
+
+    #dt
+{
+    margin-left: 17%;  
+}
+
+  #rightDiv
+{
+   
+     margin-top: 20%;
+    border-left: 3px solid #000;
+    
+}  
+}
+
+@media all and (max-width: 782px){
+    
+    #ant{
+        font-size: 20px;
+        
+    }
+    
+    #ver
+{
+    font-size: 10px;
+}
+
+      #rightDiv
+{
+   
+     margin-top: 30%;
+    border-left: 3px solid #000;
+    
+} 
+    
+}
+
+@media all and (max-width: 1024px){
+
+    #hdr-logo
+    {
+        width: 120px;
+        height: 40px;
+    }
+
+
+    #resourceImage
+    {
+        width: 110px;
+        height: 160px;
+    }
+
+
+#middle
+{
+    
+    background-color: #fff;
+      float: right; 
+     width: 37%;
+    height: 95%;
+    margin-right: 3%;
+    
+}
+
+    #download
+{
+    margin-left: 17%;
+    font-size: 15px;
+    transition: 0.4s ease;
+    padding: 1%;
+    border-radius: 25px;
+    background-color: #0d7d35;
+    color: #fff;
+    border: 0px solid #0d7d35;
+    margin-top: 5%;
+}
+
+    #dt
+{
+    margin-left: 17%;  
+}
+
+  #rightDiv
+{
+   
+     margin-top: 20%;
+    border-left: 3px solid #000;
+    
+} 
+
+#foota
+{
+
+    height: 20%;
+  
+    
+}
+}
+
+@media all and (max-width: 1280px){
+
+    #hdr-logo
+    {
+        width: 150px;
+        height: 48px;
+    }
+
+
+    #resourceImage
+    {
+        width: 110px;
+        height: 160px;
+    }
+
+
+#middle
+{
+    
+    background-color: #fff;
+      float: right; 
+     width: 37%;
+    height: 95%;
+    margin-right: 3%;
+    
+}
+
+    #download
+{
+    margin-left: 17%;
+    font-size: 15px;
+    transition: 0.4s ease;
+    padding: 1%;
+    border-radius: 25px;
+    background-color: #0d7d35;
+    color: #fff;
+    border: 0px solid #0d7d35;
+    margin-top: 5%;
+}
+
+    #dt
+{
+    margin-left: 17%;  
+}
+
+  #rightDiv
+{
+   
+     margin-top: 20%;
+    border-left: 3px solid #000;
+    
+} 
+
+#foota
+{
+ 
+    height: 16%;
+
+    
+}
+}
+
+/* Huge Devices */
+
+@media all and (min-width: 1600px )
+{
+    #hdr h3
+    {
+        font-size: 50px;
+        padding-top: 4%;
+        
+    } 
+    
+     #hdr a
+    {
+        font-size: 50px;
+        
+    }
+    
+    #rightBtm h3
+    {
+        font-size: 60px;
+        
+    }
+    
+    #leftBtm h1
+    {
+        font-size: 80px;
+        padding-top: 15%;
+        
+    }
+    
+      #leftBtm a
+    {
+        font-size: 80px;
+        
+        
+    }
+    
+    #rightBtm ul li
+    {
+        font-size: 50px;
+        
+    }
+    
+     #ant{
+        font-size: 65px;
+        
+    }
+    
+     #ver{
+        font-size: 45px;
+        
+    }
+    
+    #two
+    {
+        width: 400px;
+    }
+    
+    .content
+    {
+         font-size: 55px;
+    }
+    
+    #download
+    {
+         font-size: 45px;
+         margin-left: 12%;
+          border-radius: 35px;
+    }
+    
+     #dt
+    {
+         font-size: 45px;
+         margin-left: 12%;
+    }
+    
+    #middle h1
+    {
+         font-size: 80px;
+        
+    }
+    
+    #innerMiddle
+    {
+     
+    width: 80%;
+    height: 40%;
+       background-repeat: no-repeat;
+        background-color: #000;
+        
+        
+    }
+    
+    #innerMovies
+    {
+        margin-top: 10px;
+    }
+    
+    #downloadLinksHdr
+    {
+        
+         font-size: 50px;
+    }
+    
+    #middle
+    {
+        height: 40%;
+    }
+    
+    #middle input
+    {
+        font-size: 40px;
+         border-radius: 35px;
+        
+    }
+    
+     #middle a
+    {
+         font-size: 40px;
+    }
+    
+    #foota
+    {
+        height: 40%;
+        
+}
+}
+
