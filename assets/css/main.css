@@ -1577,6 +1577,7 @@ input, select, textarea {
 		border-top: solid 1px #eee;
 		padding: 0.5em 0 0 0;
 		margin: 0.5em 0 0 0;
+	
 	}
 
 		ul.divided li:first-child {
@@ -1960,6 +1961,7 @@ input, select, textarea {
 
 		#footer ul.divided li a {
 			text-decoration: none;
+			color: tan;
 		}
 
 		#footer ul.menu {
