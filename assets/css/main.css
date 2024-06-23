@@ -81,7 +81,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #303238 url("images/bg01.png");
+		background:#303238 url("images/bg01.png");
 	}
 
 		body.is-preload * {
@@ -1370,6 +1370,7 @@ input, select, textarea {
 
 /* Image */
 
+
 	.image {
 		position: relative;
 		display: inline-block;
@@ -1380,6 +1381,7 @@ input, select, textarea {
 			width: 100%;
 			border-radius: 8px;
 		}
+
 
 		.image:before {
 			content: '';
@@ -1404,6 +1406,7 @@ input, select, textarea {
 			margin: 0 0 2.5em 0;
 		}
 
+	
 		.image.left {
 			float: left;
 			margin: 0 2em 2em 0;
